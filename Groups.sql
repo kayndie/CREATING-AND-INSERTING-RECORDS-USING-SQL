@@ -1,0 +1,21 @@
+-- Modify CreatedBy for a repeating number pattern
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (1, 'PreferaOB One', 1, '6/16/2008');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (2, 'SUNSCREEN', 1, '12/8/2013');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (3, 'Tamoxifen Citrate', 2, '7/30/2004');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (4, 'Terbutaline Sulfate', 2, '3/2/2007');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (5, 'Fentanyl Citrate', 3, '12/28/2023');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (6, 'good neighbor pharmacy nasal decongestant pe', 3, '2/22/2018');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (7, 'topiramate', 4, '1/14/2009');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (8, 'Triacting Night Time Cold and Cough', 4, '11/29/2017');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (9, 'moisturizing lubricant', 5, '7/18/2021');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (10, 'Dantrium', 5, '11/27/2004');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (11, 'Silicea', 6, '3/30/2024');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (12, 'Tonic', 6, '5/23/2023');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (13, 'Levofloxacin', 7, '9/30/2008');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (14, 'Levora', 7, '9/9/2020');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (15, 'METHOTREXATE', 8, '8/16/2016');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (16, 'Jet Lag and Shift Change', 8, '10/3/2020');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (17, 'TRAZODONE', 9, '3/30/2018');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (18, 'LBEL', 9, '1/16/2024');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (19, 'Doxycycline Hyclate', 10, '4/18/2020');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (20, 'Hand Sanitizer', 10, '8/15/2001');
